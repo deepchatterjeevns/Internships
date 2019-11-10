@@ -22,6 +22,7 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 - Research Intern	at IIIT Allahabad. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
-
+- Internship at Ministry of Human Resource Development (MHRD). Apply [here](http://164.100.68.163/he-internship/)
+- Internship at Digilocker. Apply [here](https://digilocker.gov.in/contributions.html)
 
 # All the best !! More opportunities to be updated, do keep a track of this repository !! 
