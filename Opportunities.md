@@ -24,5 +24,7 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
 - Internship at Ministry of Human Resource Development (MHRD). Apply [here](http://164.100.68.163/he-internship/)
 - Internship at Digilocker. Apply [here](https://digilocker.gov.in/contributions.html)
+- Data Annotation Internship at Fractal Analytics. Apply [here](https://www.linkedin.com/jobs/view/1550925712/).
+- Backend Developer Internship at Cubereum. Apply [here](https://www.linkedin.com/jobs/view/1532918531/)
 
 # All the best !! More opportunities to be updated, do keep a track of this repository !! 
