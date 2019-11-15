@@ -26,5 +26,6 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 - Internship at Digilocker. Apply [here](https://digilocker.gov.in/contributions.html)
 - Data Annotation Internship at Fractal Analytics. Apply [here](https://www.linkedin.com/jobs/view/1550925712/).
 - Backend Developer Internship at Cubereum. Apply [here](https://www.linkedin.com/jobs/view/1532918531/)
+- Internship Application at Borealis AI. Apply by mailing at aditya.tayal@borealisai.com.
 
 # All the best !! More opportunities to be updated, do keep a track of this repository !! 
