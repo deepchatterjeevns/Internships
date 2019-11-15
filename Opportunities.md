@@ -19,13 +19,16 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 - Python Intern for Flask/Django in Jaipur at Makerobos Innovation Labs. Apply [here](https://www.hirist.com/j/makerobos-innovation-labs-python-intern-flask-django-0-2-yrs-510702.html).
 - Engineering Intern at Qubole. Apply [here](https://jobs.lever.co/qubole/2268bded-f717-4dbf-b520-239fd487fb4c/apply).
 - Winter School	at IIT Mandi. Apply [here](http://www.acslab.org/winterschool/home.html).
-- Research Intern	at IIIT Allahabad. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
+- Research Intern	at IIIT Allahabad. Apply [here(https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
-- Internship at Ministry of Human Resource Development (MHRD). Apply [here](http://164.100.68.163/he-internship/)
-- Internship at Digilocker. Apply [here](https://digilocker.gov.in/contributions.html)
+- Internship at Ministry of Human Resource Development (MHRD). Apply [here](http://164.100.68.163/he-internship/).
+- Internship at Digilocker. Apply [here](https://digilocker.gov.in/contributions.html).
 - Data Annotation Internship at Fractal Analytics. Apply [here](https://www.linkedin.com/jobs/view/1550925712/).
-- Backend Developer Internship at Cubereum. Apply [here](https://www.linkedin.com/jobs/view/1532918531/)
+- Backend Developer Internship at Cubereum. Apply [here](https://www.linkedin.com/jobs/view/1532918531/).
+- Data Science Internship at MateLabs. Apply [here](https://angel.co/company/mate/jobs/482255-data-science-internship).
+- Backend Internship at Matelabs. Apply [here](https://angel.co/company/mate/jobs/312824-backend-intern-python-django).
 - Internship Application at Borealis AI. Apply by mailing at aditya.tayal@borealisai.com.
+- Data Science Internship at Blackcoffer. Apply [here](https://www.linkedin.com/jobs/view/data-science-internship-in-delhi-at-blackcoffer-at-blackcoffer-1609320705/?originalSubdomain=in).
 
 # All the best !! More opportunities to be updated, do keep a track of this repository !! 
