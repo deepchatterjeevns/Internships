@@ -19,7 +19,7 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 - Python Intern for Flask/Django in Jaipur at Makerobos Innovation Labs. Apply [here](https://www.hirist.com/j/makerobos-innovation-labs-python-intern-flask-django-0-2-yrs-510702.html).
 - Engineering Intern at Qubole. Apply [here](https://jobs.lever.co/qubole/2268bded-f717-4dbf-b520-239fd487fb4c/apply).
 - Winter School	at IIT Mandi. Apply [here](http://www.acslab.org/winterschool/home.html).
-- Research Intern	at IIIT Allahabad. Apply [here(https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
+- Research Intern	at IIIT Allahabad. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
 - Internship at Ministry of Human Resource Development (MHRD). Apply [here](http://164.100.68.163/he-internship/).
